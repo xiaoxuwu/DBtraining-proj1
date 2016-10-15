@@ -1,0 +1,5 @@
+Andrew Yoon
+
+The biggest challenge I faced with this project was figuring out how git worked, since before I mostly relied on IDE tools rather
+than actually using the command line. Other than that, since the spec was relatively simple, I didn't have too much trouble with 
+completing the requirements.
